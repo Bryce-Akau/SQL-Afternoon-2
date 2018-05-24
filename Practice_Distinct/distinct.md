@@ -1,0 +1,15 @@
+SYNTAX HINT
+SELECT DISTINCT [Column]
+FROM [Table];
+
+QUESTION 1
+SELECT DISTINCT [Composer]
+FROM [Track];
+
+QUESTION 2
+SELECT DISTINCT BillingPostalCode
+FROM Invoice;
+
+QUESTION 3
+SELECT DISTINCT [Company]
+FROM Customer;
